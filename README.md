@@ -1,6 +1,8 @@
-# Getting Started with Create React App
-Coded by - [HossamOsama]
+# Live Preview: https://clone-dffaf.web.app/
+
+Coded by - [Hossam]
 ![](/Capture.jpg)
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -70,5 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-"# amzone" 
